@@ -1,0 +1,19 @@
+{
+  "name": "react-native-test-flight",
+  "version": "1.0.0",
+  "description": "A tiny react-native module that lets you determine whether your app is running in TestFlight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "testflight",
+    "test-flight"
+  ],
+  "author": "Dejan Lukic <dejanlukic@hotmail.com.au>",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.57.4"
+  }
+}
