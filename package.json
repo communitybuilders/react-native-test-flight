@@ -1,6 +1,6 @@
 {
   "name": "react-native-test-flight",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny react-native module that lets you determine whether your app is running in TestFlight",
   "main": "index.js",
   "scripts": {
