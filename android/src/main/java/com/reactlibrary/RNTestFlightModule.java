@@ -1,5 +1,8 @@
 package com.reactlibrary;
 
+import java.util.Map;
+import java.util.HashMap;
+
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
@@ -22,7 +25,8 @@ public class RNTestFlightModule extends ReactContextBaseJavaModule {
   @Override
     public Map<String, Object> getConstants() {
       final Map<String, Object> constants = new HashMap<>();
-      constants.put(isTestFlight, Toast.LENGTH_SHORT);
+
+      constants.put("isTestFlight", false);
 
       return constants;
     }
