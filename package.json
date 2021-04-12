@@ -13,6 +13,10 @@
   ],
   "author": "Dejan Lukic <dejanlukic@hotmail.com.au>",
   "license": "",
+  "repository": {
+    "url": "https://github.com/communitybuilders/react-native-test-flight.git"
+  },
+  "homepage": "https://github.com/communitybuilders/react-native-test-flight.git",
   "peerDependencies": {
     "react-native": "0.57.4"
   }
