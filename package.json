@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/communitybuilders/react-native-test-flight.git",
   "peerDependencies": {
-    "react-native": "0.57.4"
+    "react-native": ">=0.57.4"
   }
 }
