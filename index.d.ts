@@ -1,3 +1,3 @@
 declare module "react-native-test-flight" {
-  export const isTestFlight: boolean,
+  export const isTestFlight: boolean
 }
