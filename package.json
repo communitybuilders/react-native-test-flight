@@ -2,7 +2,7 @@
   "name": "react-native-test-flight",
   "version": "1.0.4",
   "description": "A tiny react-native module that lets you determine whether your app is running in TestFlight",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
